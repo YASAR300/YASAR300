@@ -91,16 +91,25 @@ const yasar = {
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasar300&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img width="60%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasar300&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&hide=Dart,CMake,Batchfile" 
+  />
 </div>
+
 
 ---
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yasar300&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yasar300&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
 </div>
+
+
+
+
+
+
 
 ---
 
@@ -113,10 +122,10 @@ const yasar = {
 ---
 
 ### 🐍 Contribution Snake
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yasar300/yasar300/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/yasar300/yasar300/output/github-contribution-grid-snake.svg" />
 </div>
+
 
 ---
 
