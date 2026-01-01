@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Yasar%20Khan&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20Enthusiast&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Yasar%20Khan&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%2010%2B%20Projects%20%7C%20🏆%20Hackatron%20Finalist%20@%20ABV-IIITM%20%7C%20🎓%20BTech%20CSE%20%7C%20📍%20Ahmedabad&descAlignY=55&descSize=16" />
 
 </div>
 
@@ -11,9 +11,9 @@
 </p>
 
 <!-- Animated GIF -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding" width="450"/>
-</div>
+</div> -->
 
 <br/>
 
@@ -121,6 +121,84 @@ const yasar = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 SmartReq AI
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/YASAR300/SmartReq-AI-Final)
+
+**An intelligent platform that automates software requirement gathering using NLP and AI**
+
+🔹 Converts stakeholder inputs (**text, voice, and documents**) into structured user stories  
+🔹 Generates process flows and **Jira-ready artifacts** in minutes  
+🔹 Streamlines project planning with AI-powered automation  
+
+**Tech Stack:** `React` `Node.js` `NLP` `AI/ML`
+
+</td>
+<td width="50%" valign="top">
+
+### ✈️ Untrip
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/YASAR300/untrip)
+
+**Advanced travel website designed to simplify trip-planning experience**
+
+🔹 Integrates **hotel listings, flight details, and car rentals**  
+🔹 Provides comprehensive destination insights  
+🔹 One-stop platform for efficient travel planning  
+
+**Tech Stack:** `React` `Next.js` `Node.js` `API Integration`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" /> Hackathons & Achievements
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/1st%20Place%20Medal.png" width="60" />
+
+### 🏆 INFOTSAV'25
+**Finalist @ ABV-IIITM Gwalior**  
+Competed among top teams in India
+
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="60" />
+
+### 🔥 Active Hacker
+**10+ Hackathons**  
+Wreckathon • Code Crucible • HackShastra
+
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="60" />
+
+### 💡 Innovation
+**Problem Solver**  
+Building real-world solutions
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Phone" width="35" /> Connect With Me
 
 <div align="center">
@@ -143,10 +221,6 @@ const yasar = {
 
 <br/>
 
-
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="35" /> Contribution Graph
@@ -162,8 +236,6 @@ const yasar = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="35" /> Support My Work
 
 <div align="center">
-
-
 
 ### If you like what I do, consider buying me a coffee ☕
 
