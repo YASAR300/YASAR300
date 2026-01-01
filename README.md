@@ -85,29 +85,10 @@ const yasar = {
 
 ### 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yasar300&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasar300&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasar300" />
+
 
 </div>
-
-<div align="center">
-  <img width="60%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasar300&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&hide=Dart,CMake,Batchfile" 
-  />
-</div>
-
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yasar300&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
-</div>
-
-
-
-
 
 
 
@@ -119,12 +100,9 @@ const yasar = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasar300&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" />
 </div>
 
----
 
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yasar300/yasar300/output/github-contribution-grid-snake.svg" />
-</div>
+
+
 
 
 ---
