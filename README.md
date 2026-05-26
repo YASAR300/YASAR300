@@ -130,18 +130,34 @@ const yasar = {
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 SmartReq AI
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/YASAR300/SmartReq-AI-Final)
+### 🧠 SKUWise
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/YASAR300/SKUWise)
 
-**An intelligent platform that automates software requirement gathering using NLP and AI**
+**AI-powered e-commerce intelligence platform for product, inventory & market analysis**
 
-🔹 Converts stakeholder inputs (**text, voice, and documents**) into structured user stories  
-🔹 Generates process flows and **Jira-ready artifacts** in minutes  
-🔹 Streamlines project planning with AI-powered automation  
+🔹 ChatGPT-style conversational interface for **business insights**  
+🔹 Vector search powered by **Qdrant** & Google Gemini embeddings  
+🔹 Multimodal asset extraction from Invoices, PDFs & Excel  
 
-**Tech Stack:** `React` `Node.js` `NLP` `AI/ML`
+**Tech Stack:** `Next.js` `PostgreSQL` `Prisma` `Qdrant` `Gemini AI`
 
 </td>
+<td width="50%" valign="top">
+
+### 🏋️ Atlyss
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/YASAR300/Atlyss)
+
+**Next-gen AI gym management & intelligent coaching ecosystem**
+
+🔹 Generates personalized **7-day workout & diet plans** via Gemini AI  
+🔹 Real-time Smart Attendance Kiosk powered by **Socket.io**  
+🔹 Multi-role system: Admin, Trainer & Member dashboards  
+
+**Tech Stack:** `React` `Node.js` `Express` `PostgreSQL` `Socket.io` `Gemini AI`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ✈️ Untrip
@@ -155,6 +171,38 @@ const yasar = {
 
 **Tech Stack:** `React` `Next.js` `Node.js` `API Integration`
 
+</td>
+<td width="50%" valign="top">
+
+### 🤖 SmartReq AI
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/YASAR300/SmartReq-AI-Final)
+
+**An intelligent platform that automates software requirement gathering using NLP and AI**
+
+🔹 Converts stakeholder inputs (**text, voice, and documents**) into structured user stories  
+🔹 Generates process flows and **Jira-ready artifacts** in minutes  
+🔹 Streamlines project planning with AI-powered automation  
+
+**Tech Stack:** `React` `Node.js` `NLP` `AI/ML`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌊 Dayflow
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/YASAR300/dayflow-smart-hr-platform)
+
+**Modern HRMS to digitize and streamline core HR operations**
+
+🔹 Employee onboarding with **auto-generated IDs** & email verification  
+🔹 Real-time attendance tracking & leave approval workflows  
+🔹 Role-based access for **Admin/HR & Employees**  
+
+**Tech Stack:** `Next.js` `PostgreSQL` `Prisma` `NextAuth` `TailwindCSS`
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
